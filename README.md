@@ -1,9 +1,9 @@
 # e_tracer_study_alumni
 
-**Nama : Nur Muhammad Fadilah**
-**NIM : 20220801114**
-**Mata Kuliah : Pemrograman Mobile**
-**UTS**
+- **Nama : Nur Muhammad Fadilah**
+- **NIM : 20220801114**
+- **Mata Kuliah : Pemrograman Mobile**
+- **UTS**
 
 ## Deskripsi Project
 E-Tracker Study Alumni adalah aplikasi yang dirancang untuk membantu universitas atau lembaga pendidikan dalam memantau dan mengelola data alumni. Aplikasi ini memungkinkan alumni untuk memperbarui data mereka, mengikuti survei, dan berinteraksi dengan jaringan alumni lainnya. 
