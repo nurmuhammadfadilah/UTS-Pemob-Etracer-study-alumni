@@ -30,6 +30,9 @@ Alumni dapat terhubung dengan alumni lain melalui aplikasi, mencari alumni berda
 2. Survey: Pengguna dapat memilih untuk mengisi survei dengan urutan Isi Survey dan kemudian Submit Survey.
 3. Alumni Network: Pengguna dapat menjelajah jaringan alumni dan melihat View Alumni Details.
 
+## Flow Diagram
+![Alt Text](https://cdn.discordapp.com/attachments/1126065555816841238/1306944513218187274/image.png?ex=6738826d&is=673730ed&hm=3193fc9775b5ed1f82bea18199ddf71e4a61ebbf20a85c8b4cd3f6f5272ba60d&)
+
 ## Specification
 1. Flutter: Framework utama untuk pengembangan aplikasi.
 2. Dart: Bahasa pemrograman yang digunakan di Flutter.
