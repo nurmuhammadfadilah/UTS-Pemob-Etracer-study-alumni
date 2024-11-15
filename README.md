@@ -8,18 +8,35 @@
 ## Deskripsi Project
 E-Tracker Study Alumni adalah aplikasi yang dirancang untuk membantu universitas atau lembaga pendidikan dalam memantau dan mengelola data alumni. Aplikasi ini memungkinkan alumni untuk memperbarui data mereka, mengikuti survei, dan berinteraksi dengan jaringan alumni lainnya. 
 
+## Objective
+- Menyediakan fitur jaringan sosial yang memungkinkan alumni untuk saling terhubung, berbagi pengalaman, serta melakukan komunikasi yang mendukung perkembangan karir dan kolaborasi profesional antar alumni.
+- Mengintegrasikan fitur survei untuk mendapatkan feedback dari alumni terkait pengalaman mereka setelah lulus dan dampak pendidikan terhadap karir mereka, yang dapat digunakan untuk perbaikan kurikulum dan fasilitas universitas.
+- Menyediakan cara yang mudah dan terorganisir untuk mencari alumni berdasarkan kriteria tertentu seperti angkatan, jurusan, pekerjaan, dan lokasi, yang berguna baik untuk alumni itu sendiri maupun untuk pihak universitas.
+
+## Scope
+- Setiap alumni dapat mengakses halaman profil pribadi untuk melihat dan mengedit data mereka.
+- Alumni dapat terhubung satu sama lain dalam jaringan alumni berbasis profil.
+
 ## Fitur
 1. Lihat Profil Alumni :
 Alumni dapat melihat dan memperbarui profil mereka yang berisi informasi pribadi, pendidikan, dan pengalaman kerja.
-2. Pekerjaan Terkini Alumni :
-Alumni dapat mencatat riwayat pekerjaan mereka setelah lulus, dan memperbarui status pekerjaan mereka.
-3. Survey Alumni :
+2. Survey Alumni :
 Alumni dapat mengisi survei untuk memberikan feedback tentang pengalaman mereka setelah lulus, yang dapat digunakan untuk analisis dan perbaikan program pendidikan.
-4. Jaringan Alumni :
+3. Jaringan Alumni :
 Alumni dapat terhubung dengan alumni lain melalui aplikasi, mencari alumni berdasarkan nama, prodi, atau pekerjaan yang sedang dijalani.
 
-## Menjalakan Project 
+## Process Flows
+1. View Profile: Pengguna dapat melihat profil dan melakukan Edit Profile.
+2. Survey: Pengguna dapat memilih untuk mengisi survei dengan urutan Isi Survey dan kemudian Submit Survey.
+3. Alumni Network: Pengguna dapat menjelajah jaringan alumni dan melihat View Alumni Details.
 
+## Specification
+1. Flutter: Framework utama untuk pengembangan aplikasi.
+2. Dart: Bahasa pemrograman yang digunakan di Flutter.
+3. Package External:
+    - url_launcher: untuk membuka link email dalam aplikasi.
+
+## Menjalakan Project 
 1. Clone repository project ini ke dalam komputer Anda (gunakan Git): 
 ```
 gi clone https://github.com/nurmuhammadfadilah/UTS-Pemob-Etracer-study-alumni.git
