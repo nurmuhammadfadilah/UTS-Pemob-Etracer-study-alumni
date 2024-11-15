@@ -37,7 +37,9 @@ flutter pub get
 flutter run
 ```
 
-note : Fitur login pada aplikasi ini belum terimplementasi, sehingga pada saat login, pengguna bisa memasukkan input sembarangan (acak) untuk melanjutkan ke aplikasi.
+note : 
+- Fitur login pada aplikasi ini belum terimplementasi, sehingga pada saat login, pengguna bisa memasukkan input sembarangan (acak) untuk melanjutkan ke aplikasi.
+- Aplikasi ini belum terhubung ke database atau sistem backend yang menyimpan data alumni secara permanen. Semua data yang ditampilkan di aplikasi saat ini bersifat statis dan hanya disimulasikan menggunakan data dummy.
 
 ## HASIL 
 ![Alt Text](https://media.discordapp.net/attachments/1126065555816841238/1306918166320119878/Screenshot_2024-11-15-16-43-46-057_my.id.etracer.e_tracer_study_alumni.jpg?ex=673869e4&is=67371864&hm=f7d014e72b610a6d12bed9b782e5073d376151a40a19b1f1879c5a8fd3a08c9b&=&format=webp&width=216&height=468)
