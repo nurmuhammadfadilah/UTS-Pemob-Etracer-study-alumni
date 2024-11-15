@@ -39,7 +39,7 @@ Alumni dapat terhubung dengan alumni lain melalui aplikasi, mencari alumni berda
 3. Package External:
     - url_launcher: untuk membuka link email dalam aplikasi.
 
-## Menjalakan Project 
+## Menjalankan Project 
 1. Clone repository project ini ke dalam komputer Anda (gunakan Git): 
 ```
 gi clone https://github.com/nurmuhammadfadilah/UTS-Pemob-Etracer-study-alumni.git
